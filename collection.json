@@ -1,0 +1,19 @@
+{
+  "info": {
+    "_postman_id": "4319ccb6-d542-4ad8-83bb-704e18d12437",
+    "name": "collection-data",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "53793247",
+    "_collection_link": "https://go.postman.co/collection/53793247-4319ccb6-d542-4ad8-83bb-704e18d12437?source=collection_link"
+  },
+  "item": [
+    {
+      "name": "get user",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    }
+  ]
+}
